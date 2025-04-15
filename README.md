@@ -18,7 +18,7 @@
 -->
 
 <!-- START Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
-# Apache Airflow
+# 🚀 Apache Airflow
 
 [![PyPI version](https://badge.fury.io/py/apache-airflow.svg)](https://badge.fury.io/py/apache-airflow)
 [![GitHub Build](https://github.com/apache/airflow/actions/workflows/ci.yml/badge.svg)](https://github.com/apache/airflow/actions)
@@ -424,8 +424,6 @@ If you can't wait to contribute, and want to get started asap, check out the [co
 Official Docker (container) images for Apache Airflow are described in [images](dev/breeze/doc/ci/02_images.md).
 
 <!-- END Contributing, please keep comment here to allow auto update of PyPI readme.md -->
-<!-- START Who uses Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
-
 ## Voting Policy
 
 * Commits need a +1 vote from a committer who is not the author
@@ -438,9 +436,6 @@ We know about around 500 organizations that are using Apache Airflow (but there 
 
 If you use Airflow - feel free to make a PR to add your organisation to the list.
 
-<!-- END Who uses Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
-<!-- START Who maintains Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
-
 ## Who maintains Apache Airflow?
 
 Airflow is the work of the [community](https://github.com/apache/airflow/graphs/contributors),
@@ -448,8 +443,6 @@ but the [core committers/maintainers](https://people.apache.org/committers-by-pr
 are responsible for reviewing and merging PRs as well as steering conversations around new feature requests.
 If you would like to become a maintainer, please review the Apache Airflow
 [committer requirements](https://github.com/apache/airflow/blob/main/COMMITTERS.rst#guidelines-to-become-an-airflow-committer).
-
-<!-- END Who maintains Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
 
 ## What goes into the next release?
 
